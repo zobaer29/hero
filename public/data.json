@@ -1,6 +1,6 @@
 [
   {
-    "image": "https://img.icons8.com/color/96/spotify--v1.png",
+        "image": "https://img.icons8.com/fluency/96/musical-notes.png",
     "title": "MusicFlow",
     "companyName": "Wave Studios",
     "id": 1,
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "image": "https://img.icons8.com/color/96/airplane-take-off.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTDJ7B5aAqHFE7GUGSGufMeNgMEI4U6PkCJQ&s",
     "title": "Shoply",
     "companyName": "EcomHub",
     "id": 14,
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "image": "https://img.icons8.com/color/96/youtube-play.png",
+    "image": "https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-1024.png",
     "title": "StudySmart",
     "companyName": "EduCore Labs",
     "id": 15,

@@ -38,7 +38,7 @@ const Nav = () => {
 
 
             <button  className="btn bg-linear-to-r from-indigo-500 to-purple-500 text-white">
-              <a className='flex items-center gap-1' href="https://github.com/SadiaUmmay">  <Github></Github>
+              <a className='flex items-center gap-1' href="https://github.com/zobaer29">  <Github></Github>
               Contribute</a>
             </button>
         </div>
