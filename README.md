@@ -25,4 +25,8 @@ Routing	React Router v6
 Charts	Recharts
 Icons	Lucide React
 Notifications	React Hot Toast
+<<<<<<< HEAD
 🔗 Live Link :https://boisterous-sorbet-bf77e7.netlify.app/
+=======
+🔗 Live Link:https://boisterous-sorbet-bf77e7.netlify.app/
+>>>>>>> ebf690f (final)
